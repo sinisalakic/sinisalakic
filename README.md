@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **sinisalakic/sinisalakic** - an associate professor in research methods in psychology (UNIBL, Republic of Srpska / Bosnia & Herzegovina) - teaching stats, research methods, psychometrics, academic skills.
 
 📚 Currently writing what seems to be the first book in the BCS language integrating R code with quantitative reasoning on data (within bookdown). Better late than never :)
@@ -13,4 +12,3 @@
 
 🚀 A lifelong learner who’s still striving to crack the code on reproducible research and serious R programming...
 
--->
